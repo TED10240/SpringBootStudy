@@ -1,0 +1,5 @@
+#在此遇到了bug，冒号后面必须有空格 ：文件类型可以是yml 或者 yaml
+server:
+  port: 8090
+  servlet:
+    context-path: /springboot
