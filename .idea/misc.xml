@@ -7,10 +7,11 @@
         <option value="$PROJECT_DIR$/002-springboot-springmvc/pom.xml" />
         <option value="$PROJECT_DIR$/003-springboot-contextpath/pom.xml" />
         <option value="$PROJECT_DIR$/004-springboot-properties-yml-yaml/pom.xml" />
+        <option value="$PROJECT_DIR$/005-springboot-allboth-properties-yml/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
