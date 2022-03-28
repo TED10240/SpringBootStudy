@@ -16,6 +16,7 @@
         <module name="007-springboot-mutli-yml" />
         <module name="008-springboot-configuration" />
         <module name="009-springboot-custom-configuration" />
+        <module name="010-springboot-jsp" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -30,6 +31,7 @@
       <module name="007-springboot-mutli-yml" target="1.8" />
       <module name="008-springboot-configuration" target="1.8" />
       <module name="009-springboot-custom-configuration" target="1.8" />
+      <module name="010-springboot-jsp" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
