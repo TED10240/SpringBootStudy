@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/003-springboot-contextpath/003-springboot-contextpath.iml" filepath="$PROJECT_DIR$/003-springboot-contextpath/003-springboot-contextpath.iml" />
       <module fileurl="file://$PROJECT_DIR$/004-springboot-properties-yml-yaml/004-springboot-properties-yml-yaml.iml" filepath="$PROJECT_DIR$/004-springboot-properties-yml-yaml/004-springboot-properties-yml-yaml.iml" />
       <module fileurl="file://$PROJECT_DIR$/005-springboot-allboth-properties-yml/005-springboot-allboth-properties-yml.iml" filepath="$PROJECT_DIR$/005-springboot-allboth-properties-yml/005-springboot-allboth-properties-yml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/006-springboot-multi-environment/006-springboot-multi-environment.iml" filepath="$PROJECT_DIR$/006-springboot-multi-environment/006-springboot-multi-environment.iml" />
       <module fileurl="file://$PROJECT_DIR$/IDEA-springboot-projectes.iml" filepath="$PROJECT_DIR$/IDEA-springboot-projectes.iml" />
     </modules>
   </component>

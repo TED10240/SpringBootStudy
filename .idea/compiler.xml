@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="004-springboot-properties-yml-yaml" />
-        <module name="002-springboot-springmvc" />
-        <module name="005-springboot-allboth-properties-yml" />
         <module name="001-springboot-first" />
+        <module name="002-springboot-springmvc" />
         <module name="003-springboot-contextpath" />
+        <module name="004-springboot-properties-yml-yaml" />
+        <module name="005-springboot-allboth-properties-yml" />
+        <module name="006-springboot-multi-environment" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,15 +20,7 @@
       <module name="003-springboot-contextpath" target="1.8" />
       <module name="004-springboot-properties-yml-yaml" target="1.8" />
       <module name="005-springboot-allboth-properties-yml" target="1.8" />
+      <module name="006-springboot-multi-environment" target="1.8" />
     </bytecodeTargetLevel>
-  </component>
-  <component name="JavacSettings">
-    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="001-springboot-first" options="-parameters" />
-      <module name="002-springboot-springmvc" options="-parameters" />
-      <module name="003-springboot-contextpath" options="-parameters" />
-      <module name="004-springboot-properties-yml-yaml" options="-parameters" />
-      <module name="005-springboot-allboth-properties-yml" options="-parameters" />
-    </option>
   </component>
 </project>
