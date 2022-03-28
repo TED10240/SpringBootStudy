@@ -14,5 +14,6 @@
     <file url="file://$PROJECT_DIR$/006-springboot-multi-environment" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/007-springboot-mutli-yml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/008-springboot-configuration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/009-springboot-custom-configuration" charset="UTF-8" />
   </component>
 </project>

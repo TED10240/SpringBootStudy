@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/006-springboot-multi-environment/006-springboot-multi-environment.iml" filepath="$PROJECT_DIR$/006-springboot-multi-environment/006-springboot-multi-environment.iml" />
       <module fileurl="file://$PROJECT_DIR$/007-springboot-mutli-yml/007-springboot-mutli-yml.iml" filepath="$PROJECT_DIR$/007-springboot-mutli-yml/007-springboot-mutli-yml.iml" />
       <module fileurl="file://$PROJECT_DIR$/008-springboot-configuration/008-springboot-configuration.iml" filepath="$PROJECT_DIR$/008-springboot-configuration/008-springboot-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/009-springboot-custom-configuration/009-springboot-custom-configuration.iml" filepath="$PROJECT_DIR$/009-springboot-custom-configuration/009-springboot-custom-configuration.iml" />
       <module fileurl="file://$PROJECT_DIR$/IDEA-springboot-projectes.iml" filepath="$PROJECT_DIR$/IDEA-springboot-projectes.iml" />
     </modules>
   </component>
