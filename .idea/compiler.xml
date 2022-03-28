@@ -12,6 +12,9 @@
         <module name="004-springboot-properties-yml-yaml" />
         <module name="005-springboot-allboth-properties-yml" />
         <module name="006-springboot-multi-environment" />
+        <module name="007-springboot-muli-yml" />
+        <module name="007-springboot-mutli-yml" />
+        <module name="008-springboot-configuration" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +24,10 @@
       <module name="004-springboot-properties-yml-yaml" target="1.8" />
       <module name="005-springboot-allboth-properties-yml" target="1.8" />
       <module name="006-springboot-multi-environment" target="1.8" />
+      <module name="007-springboot-muli-yml" target="1.8" />
+      <module name="007-springboot-multi-yml" target="1.8" />
+      <module name="007-springboot-mutli-yml" target="1.8" />
+      <module name="008-springboot-configuration" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

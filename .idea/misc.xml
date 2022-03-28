@@ -9,6 +9,9 @@
         <option value="$PROJECT_DIR$/004-springboot-properties-yml-yaml/pom.xml" />
         <option value="$PROJECT_DIR$/005-springboot-allboth-properties-yml/pom.xml" />
         <option value="$PROJECT_DIR$/006-springboot-multi-environment/pom.xml" />
+        <option value="$PROJECT_DIR$/007-springboot-muli-yml/pom.xml" />
+        <option value="$PROJECT_DIR$/007-springboot-mutli-yml/pom.xml" />
+        <option value="$PROJECT_DIR$/008-springboot-configuration/pom.xml" />
       </list>
     </option>
   </component>
