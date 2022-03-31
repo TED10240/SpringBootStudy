@@ -17,6 +17,7 @@
         <module name="008-springboot-configuration" />
         <module name="009-springboot-custom-configuration" />
         <module name="010-springboot-jsp" />
+        <module name="011-springboot-mybatis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -32,6 +33,7 @@
       <module name="008-springboot-configuration" target="1.8" />
       <module name="009-springboot-custom-configuration" target="1.8" />
       <module name="010-springboot-jsp" target="1.8" />
+      <module name="011-springboot-mybatis" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
